@@ -1,0 +1,172 @@
+.cor {
+    color: red;
+    margin-left: 10%;
+}
+.cor2 {
+    color: yellow;
+}
+
+.cor3 {
+    color: green;
+}
+
+span {
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 2%;
+    font-family: sans-serif;
+}
+
+.back {
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    padding: 3px;
+}
+
+
+.tamanho {
+    font-size: 15px;
+    text-align: left;
+    margin-right: 5px;
+    color: black;
+    font-weight: bold;
+}
+
+.menu {
+    font-size: 15px;
+    text-align: right;
+    margin-right: 15%;
+    margin-top: 1%;
+    float: right;
+    word-spacing: 40px;
+    font-family: sans-serif;
+}
+
+header {
+    background-image: url(../img/barcos.webp);
+    padding: 198px;
+}
+
+.branco {
+    background-color: white;
+    width: 100%;
+    max-width: 1000px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+
+.txt {
+    color: black;
+    margin-bottom: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+form {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 5px;
+}
+
+main > h2 {
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 30px auto 30px auto;
+    max-width: 1000px;
+}
+
+main {
+    overflow: hidden;
+    margin-bottom: 1rem;
+}
+article {
+    width: 100%;
+    max-width: 1000px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: auto;
+    gap: 25px;
+}
+
+.b {
+    background-color: red;
+    color: white;
+    border: none;
+    font-weight: bold;
+    border-radius: 5px;
+    padding: 7px;
+}
+
+
+.backg {
+    font-size: 15px;
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding: 1px;
+    
+}
+
+.city {
+    font-size: 14px;
+    font-weight: bold;
+    word-spacing: 3px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.m {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 10px;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+.caixas {
+    font-family: sans-serif;
+    padding: 4em;
+    border-radius: 5%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.caixa-1 {
+    background-image: url(../img/rio.webp);
+}
+
+.caixa-2 {
+    background-image: url(../img/bonito.webp);
+}
+
+.caixa-3 {
+    background-image: url(../img/sao-paulo.webp);
+}
+
+.caixa-4 {
+    background-image: url(../img/foz.webp);
+}
+
+.caixa-5 {
+    background-image: url(../img/maceio.webp);
+}
+
+.caixa-6 {
+    background-image: url(../img/salvador.webp);
+}
+
+.caixa-7 {
+    background-image: url(../img/fortaleza.webp);
+}
+
+.caixa-8 {
+    background-image: url(../img/belo-horizonte.webp);
+}
